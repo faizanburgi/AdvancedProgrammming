@@ -1,4 +1,4 @@
-package W3Modifiers;
+package Modifiers;
 
 public abstract class AbstractModifier {
     /* 3. abstract - incomplete

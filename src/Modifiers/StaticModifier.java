@@ -1,6 +1,6 @@
     //modifiers - static, final, abstract
 
-package W3Modifiers;
+package Modifiers;
 
 public class StaticModifier {
 

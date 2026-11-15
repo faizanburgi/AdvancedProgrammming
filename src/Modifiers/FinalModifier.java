@@ -1,4 +1,4 @@
-package W3Modifiers;
+package Modifiers;
 
 /* 2. final - cannot be changed
                   for method, it means the method cannot be overridden
